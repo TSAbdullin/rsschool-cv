@@ -64,5 +64,10 @@ console.log(countBy(3, 10))
 ---
 
 ### Projects:
-I used pure HTML and CSS in this project.
+I used pure HTML and CSS in this project. <br>
 [pizza](https://github.com/TSAbdullin/pizza "pizza") 
+
+### Languages:
+
+* English (intermediate)
+* Russian (native)
