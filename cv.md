@@ -2,7 +2,7 @@
 
 ## Junior Frontend Developer
 
-## Contact information:
+### Contact information:
 #### Phone: +77773658067
 #### E-mail: timur.abdullin.20061@mail.----------
 #### Telegram: @LoWRDPo
