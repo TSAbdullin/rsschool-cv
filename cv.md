@@ -1,6 +1,6 @@
 # Timur Abdullin
 
-![Photo](https://sun1-25.userapi.com/impg/c_xiKUbBnq8Va-d73vyuAqElJGwZpthQAAXXXA/NI3CUWnokz0.jpg?size=500x500&quality=95&sign=d2f80e8b18f486d7fa92c7d1332ea147&type=album "Photo")
+![Photo](https://sun1-25.userapi.com/s/v1/ig2/f-lm3pcmtG1s7NlG8aYrUysKq3LrDdA52nJefT9aXOmtQlhFqF7yOThaWoYn63hx-bajEQNNm3vamZ--Rtz2D5oD.jpg?size=200x200&quality=95&crop=3,779,1436,1436&ava=1 "Photo")
 
 
 ### Junior Frontend Developer
