@@ -10,6 +10,7 @@
 #### **Telegram:** @LoWRDPo
 #### **Discord:** TGHooL(Тимур)#1411
 
+---
 
 ### Briefly About Myself:
 At the beginning of my acquaintance with the field of IT, and to be more precise, front-end development, I began to study HTML and CSS. I started building one page websites.
@@ -25,11 +26,13 @@ In general, I would like to continue to develop in this area and become a cool s
 * HTML5, CSS3
 * JavaScript
 * Github, Git
+* SASS, SCSS, Bootstrap
 * Visual Studio Code
 * Figma
 
 ---
 
+### Code example:
 Create a function with two arguments that will return an array of the first n multiples of x.
 Assume both the given number and the number of times to count will be positive numbers greater than 0.
 Return the results as an array or list ( depending on language ).
@@ -49,3 +52,17 @@ function countBy(x, n) {
 
 console.log(countBy(3, 10))
 ```
+
+---
+
+### Courses:
+
+
+* [Udemy: Web-разработчик 2022](https://www.udemy.com/course/webdeveloper/ "Web-разработчик 2022")
+* [Udemy: Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/ "Полный курс по JavaScript + React - с нуля до результата")
+
+---
+
+### Projects:
+I used pure HTML and CSS in this project.
+[pizza](https://github.com/TSAbdullin/pizza "pizza") 
