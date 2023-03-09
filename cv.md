@@ -1,6 +1,8 @@
 # Timur Abdullin
+---
 
-## Junior Frontend Developer
+### Junior Frontend Developer
+---
 
 ### Contact information:
 #### Phone: +77773658067
